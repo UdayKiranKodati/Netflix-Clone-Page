@@ -17,7 +17,7 @@ To get a local copy of the project, you can simply clone the repository:
 
 bash
 Copy code
-git clone 
+git clone https://github.com/UdayKiranKodati/Netflix-Clone-Page.git
 Prerequisites
 There are no specific prerequisites required to view this project. You only need a web browser.
 
